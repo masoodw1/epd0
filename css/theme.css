@@ -1,20 +1,20 @@
 /* BG COLOR 
 =================*/
 
-.bg-yellow{ background-color: #F2C21E; }
-.bg-black{ background-color: #000;}
-.bg-white{background-color: #fff;}
+.bg-yellow{ background-color: rgb(242, 97, 30); }
+.bg-black{ background-color: #fff;}
+.bg-white{background-color: #000;}
 
-.bg-dark{ background-color: #161616 !important;}
+.bg-dark{ background-color: #777676 !important;}
 .bg-dark1{ background-color: #2e2f32 !important;}
 .bg-dark2{background-color: #1c1c1c !important;}
 .bg-light{background-color: #38393D !important;}
 
-.color-white {color: #fff !important;}
+.color-white {color: #000 !important;}
 .bg-grey{  background-color: #212224}
 
 /* common color */
-.color-yellow{ color:  #F2C21E !important;}
+.color-yellow{ color:  rgb(242, 97, 30) !important;}
 .color-gery{ color: #929292 !important }
 .color-d-gery{ color: #4d4d4d !important }
 
@@ -60,7 +60,6 @@
 
 .set-bg{
 	background-size:   cover;                
-    background-repeat: no-repeat;
     background-position: center center; 
 }
 /* #set-top{ border: 1px solid #F2C21E;} */
@@ -77,7 +76,7 @@
 
 .popup-buttons.row {}
 
-.popup-buttons .button {border: 1px solid #1C1C1C !important; color: #F2C21E !important; background-color:#444444 !important; border-radius: 5px !important; }
+.popup-buttons .button {border: 1px solid #1C1C1C !important; color: rgb(242, 97, 30) !important; background-color:#444444 !important; border-radius: 5px !important; }
 
 
 
